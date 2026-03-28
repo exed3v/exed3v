@@ -26,8 +26,6 @@ Mi enfoque se basa en la claridad, la simplicidad y la solidez técnica. Valoro 
 
 <div align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=exed3v&theme=dark&background=0d1117&stroke=2E2E2E&ring=6E6E6E&fire=6E6E6E&currStreakLabel=6E6E6E" />
-  <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exed3v&layout=compact&theme=dark&bg_color=0d1117&title_color=6E6E6E&text_color=8B8B8B&border_color=2E2E2E&hide_border=true" />
 </div>
 
 ---
