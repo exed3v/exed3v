@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=500&color=6E6E6E&center=true&vCenter=true&width=435&lines=Exequiel;Full-Stack+Developer;Frontend+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=500&color=6E6E6E&center=true&vCenter=true&width=435&lines=ExeD3v;Full-Stack+Developer;Frontend+Specialist" alt="Typing SVG" />
 </div>
 
 #
@@ -25,7 +25,8 @@ Mi enfoque se basa en la claridad, la simplicidad y la solidez técnica. Valoro 
 ### Estadísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=exed3v&show_icons=true&theme=dark&bg_color=0d1117&title_color=6E6E6E&icon_color=6E6E6E&text_color=8B8B8B&border_color=2E2E2E&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=exed3v&theme=dark&background=0d1117&stroke=2E2E2E&ring=6E6E6E&fire=6E6E6E&currStreakLabel=6E6E6E" />
+  <br />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exed3v&layout=compact&theme=dark&bg_color=0d1117&title_color=6E6E6E&text_color=8B8B8B&border_color=2E2E2E&hide_border=true" />
 </div>
 
