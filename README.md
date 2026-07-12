@@ -4,54 +4,56 @@
 
 #
 
-### Sobre mí
+### 👨‍💻 About Me
 
-Desarrollador web full-stock con enfoque en frontend. Construyo aplicaciones con React, Next.js y Angular en el cliente, y utilizo Node.js con NestJS en el servidor, apoyado en bases de datos SQL y NoSQL como PostgreSQL y MongoDB.
+Frontend Engineer focused on building modern web applications with **Next.js** and **TypeScript**, combining intuitive user experiences with **AI Integrations** and **n8n Automations**.
 
-Mi enfoque se basa en la claridad, la simplicidad y la solidez técnica. Valoro el código limpio, las soluciones eficientes y el crecimiento constante a través del esfuerzo sostenido.
+I'm passionate about building scalable SaaS products, writing clean and maintainable code, and continuously improving through real-world projects.
 
-> *"Actúa sin esperar reconocimiento. Construye sin buscar aprobación."*
+> *"Act without expecting recognition. Build without seeking approval."*
 
 ---
 
-### Tecnologías
+### 🚀 Tech Stack
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,nodejs,nestjs,postgresql,mongodb,typescript,tailwind,git" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,git,github,vscode" />
 </div>
 
 ---
 
-### Estadísticas
+### 🤖 Currently Learning
+
+- AI Integrations
+- n8n Automation
+- Modern SaaS Architecture
+- Product Engineering
+
+---
+
+### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=exed3v&theme=dark&background=0d1117&stroke=2E2E2E&ring=6E6E6E&fire=6E6E6E&currStreakLabel=6E6E6E&hide_border=true" />
-</div>
-
-<div align="center">
-  <sub><i>Las estadísticas se completarán con la actividad del perfil.</i></sub>
+  <img src="https://streak-stats.demolab.com?user=exed3v&theme=dark&hide_border=true&background=0d1117&ring=6E6E6E&fire=6E6E6E&currStreakLabel=6E6E6E" />
 </div>
 
 ---
 
-### Conecta conmigo
+### 🌐 Connect with Me
 
 <a href="https://my-portfolio-navy-gamma-73.vercel.app/">
-  <img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
+
 <a href="https://www.linkedin.com/in/hernan-exequiel-maydana-6181743b2/">
   <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/exem.fx/">
-  <img src="https://img.shields.io/badge/Instagram-0A0A0A?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
 
 ---
 
 <div align="center">
-  <sub>Construido con enfoque y propósito.</sub>
+  <sub>Building modern SaaS experiences with Next.js, AI and Automation.</sub>
 </div>
-
 <!--
 **exed3v/exed3v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
