@@ -31,14 +31,6 @@ I'm passionate about building scalable SaaS products, writing clean and maintain
 
 ---
 
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=exed3v&theme=dark&hide_border=true&background=0d1117&ring=6E6E6E&fire=6E6E6E&currStreakLabel=6E6E6E" />
-</div>
-
----
-
 ### 🌐 Connect with Me
 
 <a href="https://my-portfolio-navy-gamma-73.vercel.app/">
